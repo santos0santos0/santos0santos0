@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is João Pedro. I'm Information Security Technician at @IntruderLabs, and Software Developer. I'm interested in technology: (in)security, networking, infrastructure, programming and software architecture.</p>
+<p align="left">My name is João Pedro. I'm a Information Security Technician at @IntruderLabs, and Software Developer. I'm interested in technology: (in)security, networking, infrastructure, programming and software architecture.</p>
 
 ###
 
