@@ -14,7 +14,9 @@
 
 ###
 
+<!--
 <img align="right" height="200" src="https://i.gifer.com/3Kxn.gif"  />
+-->
 
 ###
 
@@ -109,8 +111,10 @@
 
 ###
 
+<!--
 <h2 align="left">🎵 Musics</h2>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=60dma4vsrcr339izpbv17f2ab)
+-->
 
 ###
